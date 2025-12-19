@@ -250,7 +250,7 @@ Actual Normal     577      20      (96.63% preserved)
 
 ### 5.1 Performance Dashboard
 
-![Full Dataset Dashboard](https://drive.google.com/file/d/1BANQ5HmwzBNMmrEiSNx656an4w-iOvF3/view?usp=drive_link)
+![Full Dataset Dashboard](https://drive.google.com/uc?id=1BANQ5HmwzBNMmrEiSNx656an4w-iOvF3)
 
 **File:** `FULL_dataset_dashboard.png`
 
@@ -265,7 +265,7 @@ Shows comprehensive 6-panel view:
 
 ### 5.2 Attack Traffic Mitigation
 
-![Attack Traffic Mitigation](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\attack_traffic_mitigation.png)
+![Attack Traffic Mitigation](https://drive.google.com/uc?id=15KYPSzAQdTSoTGKJVltF3bLmI4w-UhbW)
 
 **File:** `attack_traffic_mitigation.png`
 
@@ -280,7 +280,7 @@ Visualizes how 591 detected attacks are handled:
 
 ### 5.3 Normal Traffic Mitigation  
 
-![Normal Traffic Mitigation](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\normal_traffic_mitigation.png)
+![Normal Traffic Mitigation](https://drive.google.com/uc?id=1tXlNgeT_l7pFBA1w7VP_QG0a8ljA_boc)
 
 **File:** `normal_traffic_mitigation.png`
 
@@ -295,7 +295,7 @@ Shows how 597 normal traffic samples are handled:
 
 ### 5.4 Training Convergence
 
-![Training Curves](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_training_curves.png)
+![Training Curves](https://drive.google.com/uc?id=1LYiDjTksjPcrByDuIiZ_RJ4HaRlQ-gac)
 
 **File:** `RESEARCH_training_curves.png`
 
@@ -310,7 +310,7 @@ Shows how 597 normal traffic samples are handled:
 
 ### 5.5 Model Comparison
 
-![Model Comparison](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_model_comparison.png)
+![Model Comparison](https://drive.google.com/uc?id=1kicwtscp9l85w8rWYqpbTUtIgmz1hDbt)
 
 **File:** `RESEARCH_model_comparison.png`
 
@@ -325,7 +325,7 @@ Compares Deep SVDD vs CAE vs Ensemble:
 
 ### 5.6 ROC Curve
 
-![ROC Curve](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_roc_curve.png)
+![ROC Curve](https://drive.google.com/uc?id=17PRUS_9BX9ZDNolyHbc-74Lnqt1Mg9Wr)
 
 **File:** `RESEARCH_roc_curve.png`
 
@@ -341,15 +341,15 @@ Receiver Operating Characteristic:
 ### 5.7 Additional Research Visualizations
 
 ````carousel
-![Feature Importance](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_feature_importance.png)
+![Feature Importance](https://drive.google.com/uc?id=1VqPj5qAb8cnh-TFGUnl4zLYxo-hLlq1o)
 <!-- slide -->
-![Feature Correlation Heatmap](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_feature_correlation.png)
+![Feature Correlation Heatmap](https://drive.google.com/uc?id=1OJBzLK3we9qsM05STotA9XLmfxqWmLFs)
 <!-- slide -->
-![t-SNE Separability Analysis](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_tsne_separability.png)
+![t-SNE Separability Analysis](https://drive.google.com/uc?id=1LH9k_2NqYfzbErE0uagqOTgpwa-hrPtQ)
 <!-- slide -->
-![Precision-Recall Curve](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_pr_curve.png)
+![Precision-Recall Curve](https://drive.google.com/uc?id=18nbPG0XHLeYP1BpUTe-McS6oECmggg5K)
 <!-- slide -->
-![Dataset Distribution](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\RESEARCH_dataset_distribution.png)
+![Dataset Distribution](https://drive.google.com/uc?id=1hxs67CHQRmBYmkTcVjIze1Utm41rg8hX)
 ````
 
 **Additional Visualizations:**
@@ -364,15 +364,15 @@ Receiver Operating Characteristic:
 ### 5.8 Comprehensive Dashboards
 
 ````carousel
-![Detection & Mitigation Dashboard](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\DETECTION_MITIGATION_dashboard.png)
+![Detection & Mitigation Dashboard](https://drive.google.com/uc?id=1k8rUU8ipq1vhI2uwgcZqCvNU2GUILRNN)
 <!-- slide -->
-![Full Dataset Metrics](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\FULL_dataset_metrics.png)
+![Full Dataset Metrics](https://drive.google.com/uc?id=1QBsgVIKWtEBwrLP_CdVoJk6KWjB8ypun)
 <!-- slide -->
-![Mitigation Strategy Overview](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\MITIGATION_strategy.png)
+![Mitigation Strategy Overview](https://drive.google.com/uc?id=1e8IkKm9EW6jMSAaYxjudEznEFvywhaBi)
 <!-- slide -->
-![Validation Analysis](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\VALIDATION_analysis.png)
+![Validation Analysis](https://drive.google.com/uc?id=1Wfz15Kc1UzBR0PK6fmBpaPtlQIFgAyq1)
 <!-- slide -->
-![Comprehensive Mitigation Comparison](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\mitigation_comparison_comprehensive.png)
+![Comprehensive Mitigation Comparison](https://drive.google.com/uc?id=1oHZgGtXuwejxBfVwwzSpI0fAXg3Vlrlk)
 ````
 
 **Dashboard Suite:**
@@ -429,17 +429,7 @@ if prediction['is_attack']:
 
 ---
 
-## 8. Future Enhancements
-
-- [ ] Multi-class attack type identification
-- [ ] Adaptive threshold tuning based on network conditions
-- [ ] Integration with SDN controllers for automated blocking
-- [ ] Distributed deployment for high-traffic networks
-- [ ] Continuous learning from new attack patterns
-
----
-
-## 9. Conclusion
+## 8. Conclusion
 
 AMTEAD demonstrates **state-of-the-art unsupervised DDoS detection** with:
 - High accuracy (93.94%)
@@ -449,15 +439,4 @@ AMTEAD demonstrates **state-of-the-art unsupervised DDoS detection** with:
 
 The system is validated on the **CICEV2023 Electric Vehicle Charging Infrastructure dataset** and ready for **deployment** and **academic publication**.
 
----
-
-**Project Status:** ✅ **PRODUCTION READY**
-
-**Files:**
-- Code: `d:\adi personal\papers\Bosch\code\`
-- Models: `models/` (93.94% accuracy model)
-- Visualizations: `new_visualization/` (16 IEEE-quality charts)
-
-**Contact:** [Your Name/Institution]
-**Date:** December 2025
 
