@@ -250,7 +250,7 @@ Actual Normal     577      20      (96.63% preserved)
 
 ### 5.1 Performance Dashboard
 
-![Full Dataset Dashboard](C:\Users\sriva\.gemini\antigravity\brain\ba3618dc-46bb-4003-b6cf-4566af39e495\FULL_dataset_dashboard.png)
+![Full Dataset Dashboard](https://drive.google.com/file/d/1BANQ5HmwzBNMmrEiSNx656an4w-iOvF3/view?usp=drive_link)
 
 **File:** `FULL_dataset_dashboard.png`
 
@@ -460,3 +460,4 @@ The system is validated on the **CICEV2023 Electric Vehicle Charging Infrastruct
 
 **Contact:** [Your Name/Institution]
 **Date:** December 2025
+
